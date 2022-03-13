@@ -7,6 +7,6 @@ Email: [chesmore@uchicago.edu](mailto:chesmore@uchicago.edu)
 Statistical analysis of The Bachelor dataset, going back the past 14 seasons of the reality show. 
 
 <p align="center">
-     <img src="figs/age_distribution.png" alt="centered image" width="60%"/>
+     <img src="figs/age_distribution.png" alt="centered image" width="60%" style="background: #FFFFFF;"/>
     <figcaption style="padding-bottom:30px"> <i> Age distribution of The Bachelor contestants in the dataset, which covers the last 14 seasons. </i> </figcaption>
 </p>
